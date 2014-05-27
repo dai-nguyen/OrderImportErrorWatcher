@@ -1,0 +1,13 @@
+﻿{
+  "SmtpHost": "smtp.gmail.com",
+  "SmtpPort": 25,
+  "SmtpUser": "YOUR EMAIL",
+  "SmtpPass": "YOUR PASSWORD",
+  "EnableSSL": 1,
+  "EmailFrom": "YOUR EMAIL",
+  "EmailTos": [ "RECIPIENT" ],
+  "WaitInSeconds": 60,
+  "ActiveFolder": "C:\\Users\\Dai\\Desktop\\active",
+  "ErrorFolder": "C:\\Users\\Dai\\Desktop\\error",
+  "SummaryFolder": "C:\\Users\\Dai\\Desktop\\summary"
+}
